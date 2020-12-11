@@ -1,0 +1,17 @@
+{
+  "lastRun": "1606261326398-superadmin.js",
+  "migrations": [
+    {
+      "title": "1605941377720-permissions-seed.js",
+      "timestamp": 1606162594593
+    },
+    {
+      "title": "1606159090255-roles.js",
+      "timestamp": 1606162755613
+    },
+    {
+      "title": "1606261326398-superadmin.js",
+      "timestamp": 1606266614739
+    }
+  ]
+}
