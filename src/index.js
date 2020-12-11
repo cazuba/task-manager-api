@@ -19,7 +19,7 @@ const app = express();
 app.use(express.json());
 
 // Listining Port
-const port = process.PORT || 3000;
+const port = process.env.PORT || 3000;
 
 const setMiddlewares = (app) => {
   app.use([
