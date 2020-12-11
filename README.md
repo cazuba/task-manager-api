@@ -3,8 +3,8 @@
 ## Getting Started
 
 ### Requirements
-- [NodeJS](https://nodejs.org/en/) v12.18.4
-- [NVM](https://github.com/nvm-sh/nvm) v0.37.2
+- [NodeJS](https://nodejs.org/en/)@v12.18.4
+- [NVM](https://github.com/nvm-sh/nvm)@v0.37.2
 
 ### Installation
 - `nvm use` - If NodeJS version is not found you can install it by running `nvm install v12.18.4`
